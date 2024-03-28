@@ -1,0 +1,6 @@
+requests
+chromadb
+pypdf
+dspy-ai[chromadb]
+ipywidgets
+semantic-text-splitter>==0.7.0
